@@ -6,7 +6,6 @@
     <title>{{ title }} | TGIFelix</title>
     <meta name="author" content="{{metadata.author.name}}" />
     <meta name="description" content="{{metadata.description}}" />
-
     {% set css %}{% include "style.css" %}{% endset %}
     <style>
       {{ css | cssmin | safe }}
