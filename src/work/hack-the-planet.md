@@ -9,7 +9,7 @@ date: 2020-12-01
 
 ## Hack The Planet
 
-> App and Website mockup for the #10DaysNoPlastic challenge
+> App and Website mockup for #10DaysNoPlastic challenge
 
 [Logo ⇲](https://www.figma.com/file/BNby6HBcMhlF2idGlIoi2Q/htp.logo?node-id=0%3A1)
 
