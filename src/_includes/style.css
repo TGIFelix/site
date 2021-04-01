@@ -29,7 +29,7 @@ img {
 }
 
 #nav {
-    padding: 0 25px;
+    padding: 20px 20px 0 0;
     position: fixed;
 }
 
@@ -60,7 +60,6 @@ img {
     }
     #nav {
         position: relative;
-        padding-top: 10px;
         text-align: right;
     }
 }
