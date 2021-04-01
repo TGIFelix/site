@@ -13,4 +13,4 @@ date: 2020-12-01
 
 [Link](https://www.zandfornia.com)
 
-![Screenshot](../img/zandfornia.png)
+![Screenshot](../../img/zandfornia.png)

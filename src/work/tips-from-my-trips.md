@@ -13,4 +13,4 @@ date: 2020-12-01
 
 [Link](https://tfmt.vercel.app)
 
-![Screenshot](../img/tfmt.png)
+![Screenshot](../../img/tfmt.png)

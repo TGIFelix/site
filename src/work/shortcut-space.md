@@ -13,4 +13,4 @@ date: 2020-12-01
 
 [Link](https://www.shortcut.space)
 
-![Screenshot](../img/scs.png)
+![Screenshot](../../img/scs.png)

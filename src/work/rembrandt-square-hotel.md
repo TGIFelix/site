@@ -27,4 +27,4 @@ Sep 2014 — Feb 2020
 
 [Link](http://www.rsqhotel.com)
 
-![screenshot](../img/rsqhotel.gif)
+![screenshot](../../img/rsqhotel.gif)
