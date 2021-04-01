@@ -16,7 +16,7 @@ a:hover, a:active {
     font-style: italic;
 }
 
-h2 {
+h2 {font-size: 2em;
     text-shadow: 1px 1px hotpink, -1px -1px cyan;
 }
 
