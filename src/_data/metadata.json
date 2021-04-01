@@ -1,9 +1,10 @@
 {
-    "title": "Felix Swinkels",
+    "title": "tgifelix.com",
     "url": "https://tgifelix.com",
-    "description": "Werk",
+    "description": "Work by Felix Swinkels",
     "author": {
       "name": "Felix Swinkels",
       "email": "info@tgifelix.com"
-    }
+    },
+    "blog": "https://dev.to/tgifelix"
   }

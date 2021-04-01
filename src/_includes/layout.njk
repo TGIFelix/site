@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>
-      {{ renderData.title or title or metadata.title }} | TGIFelix
-    </title>
-    <meta name="Description" content="" />
+    <title>{{ title }} | TGIFelix</title>
+    <meta name="author" content="{{metadata.author.name}}" />
+    <meta name="description" content="{{metadata.description}}" />
+
     {% set css %}{% include "style.css" %}{% endset %}
     <style>
       {{ css | cssmin | safe }}
@@ -15,12 +15,12 @@
 
   <body>
     <header>
-      <h1>{{ metadata.title }}</h1>
       <div id="nav">
         {%- for nav in collections.nav -%}
         <a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a><br />
         {%- endfor -%}
-        <a href="https://dev.to/tgifelix">Blog ⇲</a>
+        <br />
+        <a href="{{metadata.blog}}">Blog ⇲</a>
       </div>
     </header>
     <main>
