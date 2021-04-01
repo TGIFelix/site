@@ -1,21 +1,13 @@
 {
-  "name": "11ty",
+  "name": "tgifelix.com",
   "version": "1.0.0",
   "author": {
     "name": "Felix Swinkels",
     "email": "info@tgifelix.com",
     "url": "https://www.tgifelix.com"
   },
-  "description": "11ty Boilerplate",
-  "keywords": [
-    "11ty",
-    "eleventy",
-    "boilerplate",
-    "jams",
-    "jamstack"
-  ],
+  "description": "Work by Felix Swinkels",
   "license": "MIT",
-  "main": "index.js",
   "scripts": {
     "dev": "eleventy --serve",
     "build": "eleventy"
