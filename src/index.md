@@ -17,6 +17,6 @@ date: 2020-01-01
 
 ❤️: Kitesurf, Travel, Opensource
 
-<br>
+&nbsp;
 
 [GitHub](https://github.com/TGIFelix) | [LinkedIn](https://www.linkedin.com/in/felixswinkels) | [Resume](/resume.pdf)
