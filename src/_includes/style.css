@@ -11,10 +11,6 @@ main {
     margin: 0 auto;
 }
 
-a, a:visited {
-    color: black;
-}
-
 a:hover, a:active {
     animation: glitch 400ms infinite;
     font-style: italic;
@@ -35,6 +31,24 @@ img {
 #nav {
     padding: 0 25px;
     position: fixed;
+}
+
+@media (prefers-color-scheme: light) {
+    html, body {
+        background-color: white
+    }
+    h1, h2, li, p, a, a:visited {
+        color: black;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    html, body {
+        background-color: black
+    }
+    h1, h2, li, p, a, a:visited {
+        color: white;
+    }
 }
 
 @media screen and (max-width: 768px) {
