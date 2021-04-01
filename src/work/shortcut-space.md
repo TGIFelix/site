@@ -11,6 +11,6 @@ date: 2020-12-01
 
 > Start of opensource community for keyboard shortcuts.
 
-[Link ⇲](https://www.shortcut.space)
+[Link ⇲](https://www.shortcut.space) [Source ⇲](https://www.github.com/tgifelix/shortcutspace)
 
 ![Screenshot](../../img/scs.png)
