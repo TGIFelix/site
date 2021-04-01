@@ -16,6 +16,10 @@ a:hover, a:active {
     font-style: italic;
 }
 
+h2 {
+    text-shadow: 1px 1px hotpink, -1px -1px cyan;
+}
+
 @keyframes glitch {
     0% {text-shadow: 1px 1px hotpink, -1px -1px cyan;}
     25% {text-shadow: -1px -1px hotpink, 1px 1px cyan;}
@@ -26,6 +30,7 @@ a:hover, a:active {
 
 img {
     width: 100%;
+    height: auto;
 }
 
 #nav {

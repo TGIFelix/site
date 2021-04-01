@@ -3,11 +3,9 @@ title: 🙋‍♂️ Felix Swinkels
 layout: layout.njk
 tags:
   - nav
-navtitle: Felix
+navtitle: Felix Swinkels
 date: 2020-01-01
 ---
-
-## Felix Swinkels
 
 ![family](img/fam.jpeg)
 
