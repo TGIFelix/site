@@ -4,7 +4,11 @@ html, body {
     padding: 0;
     margin: 0;
     font-family: "JetBrains Mono";
-    color: black;
+}
+
+main {
+    max-width: 50%;
+    margin: 0 auto;
 }
 
 a, a:visited {
@@ -17,27 +21,13 @@ a:hover, a:active {
 }
 
 @keyframes glitch {
-    0% {
-        text-shadow: 1px 1px red, -1px -1px blue;
-    }
-    25% {
-        text-shadow: -1px -1px red, 1px 1px blue;
-    }
-    50% {
-        text-shadow: 1px -1px red, -1px 1px blue;
-    }
-    75% {
-        text-shadow: -1px -1px red, -1px -1px blue;
-    }
-    100% {
-        text-shadow: -1px 0 red, 1px -1px blue;
-    }
+    0% {text-shadow: 1px 1px red, -1px -1px blue;}
+    25% {text-shadow: -1px -1px red, 1px 1px blue;}
+    50% {text-shadow: 1px -1px red, -1px 1px blue;}
+    75% {text-shadow: -1px -1px red, -1px -1px blue;}
+    100% {text-shadow: -1px 0 red, 1px -1px blue;}
 }
 
-main {
-    max-width: 50%;
-    margin: 0 auto;
-}
 
 img {
     width: 100%;
