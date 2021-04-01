@@ -17,4 +17,4 @@ date: 2020-12-01
 
 [link](https://www.figma.com/file/Egml1hC0EkhvqPrAN4dABZ/northsea.hoodie?node-id=0%3A1)
 
-![hoodie](../../img/hoodie.jpeg)
+![hoodie](../../img/hoodie.jpg)
