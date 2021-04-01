@@ -1,5 +1,5 @@
 ---
-title: 🌍 Northsea Logo
+title: 🌊 Northsea Logo
 layout: layout.njk
 tags:
   - nav

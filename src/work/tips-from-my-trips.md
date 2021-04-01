@@ -7,7 +7,7 @@ navtitle: Tips From My Trips
 date: 2020-12-01
 ---
 
-## Hack The Planet
+## Tips From My Trips
 
 > ReactJS website that pulls posts of Instagram.
 
