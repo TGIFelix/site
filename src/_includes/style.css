@@ -15,6 +15,7 @@ a:hover, a:active {
     animation: glitch 500ms infinite;
     font-style: italic;
 }
+
 @keyframes glitch {
     0% {
         text-shadow: 1px 1px red, -1px -1px blue;
