@@ -60,8 +60,7 @@ img {
     }
     #nav {
         position: relative;
-        top: 0;
-        font-size: 0.8em;
+        padding-top: 10px;
         text-align: center;
     }
 }
