@@ -1,9 +1,10 @@
 ---
+permalink: false
 title: 🏨 Rembrandt Square Hotel
 layout: layout.njk
-tags:
-  - nav
-navtitle: Rembrandt Square Hotel
+# tags:
+#   - nav
+# navtitle: Rembrandt Square Hotel
 date: 2020-02-01
 ---
 
