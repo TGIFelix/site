@@ -11,6 +11,6 @@ date: 2020-12-01
 
 > Development demo for learning Shopify ThemeKit and Liquid.
 
-[Link](https://www.zandfornia.com)
+[Link ⇲](https://www.zandfornia.com)
 
 ![Screenshot](../../img/zandfornia.png)

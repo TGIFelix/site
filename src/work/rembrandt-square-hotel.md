@@ -26,6 +26,6 @@ Sep 2014 — Feb 2020
 
 > Website build in 2016 using Bootstrap and Sass.
 
-[Link](http://www.rsqhotel.com)
+[Link ⇲](http://www.rsqhotel.com)
 
 ![screenshot](../../img/rsqhotel.gif)

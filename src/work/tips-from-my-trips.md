@@ -11,6 +11,6 @@ date: 2020-12-01
 
 > ReactJS website that pulls posts of Instagram.
 
-[Link](https://tfmt.vercel.app)
+[Link ⇲](https://tfmt.vercel.app)
 
 ![Screenshot](../../img/tfmt.png)
