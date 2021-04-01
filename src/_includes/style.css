@@ -37,7 +37,7 @@ img {
     html, body {
         background-color: white
     }
-    h1, h2, li, p, a, a:visited {
+    h2, li, p, a, a:visited {
         color: black;
     }
 }
@@ -46,7 +46,7 @@ img {
     html, body {
         background-color: black
     }
-    h1, h2, li, p, a, a:visited {
+    h2, li, p, a, a:visited {
         color: white;
     }
 }
@@ -61,6 +61,6 @@ img {
     #nav {
         position: relative;
         padding-top: 10px;
-        text-align: center;
+        text-align: right;
     }
 }
