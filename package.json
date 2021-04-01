@@ -1,0 +1,30 @@
+{
+  "name": "11ty",
+  "version": "1.0.0",
+  "author": {
+    "name": "Felix Swinkels",
+    "email": "info@tgifelix.com",
+    "url": "https://www.tgifelix.com"
+  },
+  "description": "11ty Boilerplate",
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "boilerplate",
+    "jams",
+    "jamstack"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "clean-css": "^4.2.3",
+    "terser": "^5.6.0"
+  }
+}
