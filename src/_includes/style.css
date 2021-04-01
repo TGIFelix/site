@@ -21,11 +21,11 @@ a:hover, a:active {
 }
 
 @keyframes glitch {
-    0% {text-shadow: 1px 1px red, -1px -1px blue;}
-    25% {text-shadow: -1px -1px red, 1px 1px blue;}
-    50% {text-shadow: 1px -1px red, -1px 1px blue;}
-    75% {text-shadow: -1px -1px red, -1px -1px blue;}
-    100% {text-shadow: -1px 0 red, 1px -1px blue;}
+    0% {text-shadow: 1px 1px hotpink, -1px -1px cyan;}
+    25% {text-shadow: -1px -1px hotpink, 1px 1px cyan;}
+    50% {text-shadow: 1px -1px hotpink, -1px 1px cyan;}
+    75% {text-shadow: -1px -1px hotpink, -1px -1px cyan;}
+    100% {text-shadow: -1px 0 hotpink, 1px -1px cyan;}
 }
 
 img {
