@@ -16,7 +16,7 @@ a, a:visited {
 }
 
 a:hover, a:active {
-    animation: glitch 500ms infinite;
+    animation: glitch 400ms infinite;
     font-style: italic;
 }
 
