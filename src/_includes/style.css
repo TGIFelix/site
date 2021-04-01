@@ -12,7 +12,7 @@ a, a:visited {
 }
 
 a:hover, a:active {
-    animation: glitch 900ms infinite;
+    animation: glitch 500ms infinite;
     font-style: italic;
 }
 @keyframes glitch {
