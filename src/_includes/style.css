@@ -58,9 +58,6 @@ img, iframe {
     main {
         max-width: 90%;
     }
-    iframe {
-        max-width: 100%;
-    }
     #nav {
         position: relative;
         text-align: right;

@@ -13,4 +13,4 @@ date: 2020-12-01
 
 [Link ⇲](https://www.shortcut.space) [Source ⇲](https://www.github.com/tgifelix/shortcutspace)
 
-![Screenshot](../../img/scs.png)
+![Screenshot](../../img/scs.jpeg)

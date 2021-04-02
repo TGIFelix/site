@@ -3,10 +3,8 @@ const { minify } = require("terser");
 module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats([
     "md",
-    "jpg",
     "jpeg",
     "png",
-    "gif",
     "pdf"
   ]);
   eleventyConfig.addFilter("cssmin", function(code) {
