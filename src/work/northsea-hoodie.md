@@ -13,7 +13,7 @@ date: 2020-12-01
 
 [Link ⇲](https://zandfornia.com/products/north-sea-hoodie)
 
-![hoodie](../../img/hoodie.jpg)
+![hoodie](../../img/hoodie.jpeg)
 
 [Link ⇲](https://www.figma.com/file/td71tNZ1XPKW664B1hxAis/northsea.logo)
 
