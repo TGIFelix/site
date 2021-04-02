@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 html, body {
-    padding: 0;
     margin: 0;
     font-family: "JetBrains Mono";
 }
@@ -11,13 +10,13 @@ main {
     margin: 0 auto;
 }
 
+h2 {font-size: 2em;
+    text-shadow: 1px 1px hotpink, -1px -1px cyan;
+}
+
 a:hover, a:active {
     animation: glitch 400ms infinite;
     font-style: italic;
-}
-
-h2 {font-size: 2em;
-    text-shadow: 1px 1px hotpink, -1px -1px cyan;
 }
 
 @keyframes glitch {
@@ -25,7 +24,7 @@ h2 {font-size: 2em;
     25% {text-shadow: -1px -1px hotpink, 1px 1px cyan;}
     50% {text-shadow: 1px -1px hotpink, -1px 1px cyan;}
     75% {text-shadow: -1px -1px hotpink, -1px -1px cyan;}
-    100% {text-shadow: -1px 0 hotpink, 1px -1px cyan;}
+    100% {text-shadow: -1px 1px hotpink, 1px -1px cyan;}
 }
 
 img {
