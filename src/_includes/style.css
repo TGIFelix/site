@@ -10,11 +10,8 @@ main {
 }
 
 code {
-  font: 16px Monospace;
+  font: 1em "JetBrains Mono";
   animation: glitch 400ms infinite;
-  background-color: lightgrey;
-  padding: 0 3px;
-  border-radius: 2px;
 }
 
 h2 {
@@ -77,9 +74,6 @@ iframe {
   a,
   a:visited {
     color: white;
-  }
-  code {
-    background-color: dimgrey;
   }
 }
 
