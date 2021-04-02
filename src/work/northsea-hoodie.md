@@ -6,7 +6,9 @@ tags:
 navtitle: Northsea Hoodie
 date: 2020-12-01
 ---
+
 <!-- markdownlint-disable MD033 -->
+
 ## Northsea Hoodie
 
 > Hoodie design for zandfornia.com
