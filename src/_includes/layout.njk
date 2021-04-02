@@ -6,6 +6,8 @@
     <title>{{ title }} | TGIFelix</title>
     <meta name="author" content="{{metadata.author.name}}" />
     <meta name="description" content="{{metadata.description}}" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
     {% set css %}{% include "style.css" %}{% endset %}
     <style>
       {{ css | cssmin | safe }}
@@ -14,7 +16,7 @@
 
   <body>
     <header>
-      <div id="nav">
+      <div class="nav">
         {%- for nav in collections.nav -%}
         <a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a><br />
         {%- endfor -%}

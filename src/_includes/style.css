@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
-
 html,
 body {
   margin: 0;
@@ -45,7 +43,7 @@ iframe {
   width: 100%;
 }
 
-#nav {
+.nav {
   padding: 0 20px;
   position: fixed;
 }
@@ -54,10 +52,8 @@ iframe {
   html,
   body {
     background-color: white;
+    color: black;
   }
-  h2,
-  li,
-  p,
   a,
   a:visited {
     color: black;
@@ -68,10 +64,8 @@ iframe {
   html,
   body {
     background-color: black;
+    color: white;
   }
-  h2,
-  li,
-  p,
   a,
   a:visited {
     color: white;
@@ -82,7 +76,7 @@ iframe {
   main {
     max-width: 90%;
   }
-  #nav {
+  .nav {
     position: relative;
     text-align: right;
     padding: 20px 20px 0 0;
