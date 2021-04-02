@@ -9,7 +9,11 @@ date: 2020-12-01
 
 ## CSS Darkmode
 
+<<<<<<< HEAD
 > The `prefers-color-scheme` CSS media feature is used to detect if the user has requested a light or dark color theme.
+=======
+> The prefers-color-scheme CSS media feature is used to detect if the user has requested a light or dark color theme.
+>>>>>>> 759ec427c8ca5c0ab95bdbc6b0a26edfb4c8eb0d
 
 <!-- markdownlint-disable MD033 -->
 
