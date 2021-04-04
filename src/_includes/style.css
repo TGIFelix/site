@@ -52,6 +52,19 @@ iframe {
   position: fixed;
 }
 
+.brave {
+  font-size: 2em;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.brave a,
+a:hover {
+  text-decoration: none !important;
+  font-style: regular !important;
+}
+
 @media (prefers-color-scheme: light) {
   body {
     background-color: white;
