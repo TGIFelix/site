@@ -1,9 +1,6 @@
 ---
 title: 🙋‍♂️ Felix Swinkels
 layout: layout.njk
-tags:
-  - nav
-navtitle: Felix Swinkels
 date: 2021-03-31
 ---
 

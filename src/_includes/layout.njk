@@ -17,6 +17,8 @@
   <body>
     <header>
       <div class="nav">
+        <div class="brave"><a href="/" title="home">🦁</a></div>
+        <br>
         {%- for nav in collections.nav -%}
         <a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a><br />
         {%- endfor -%}
@@ -27,7 +29,6 @@
     <main>
       {{ content | safe }}
     </main>
-    <div class="brave"><a href="http://brave.com/download" title="Download Brave Browser!">🦁</a></div>
   </body>
   
   {% set js %}{% include "script.js" %}{% endset %}
