@@ -1,6 +1,9 @@
 ---
 title: 🙋‍♂️ Felix Swinkels
 layout: layout.njk
+tags:
+  - nav
+navtitle: Home
 date: 2021-03-31
 ---
 

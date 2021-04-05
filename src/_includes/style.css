@@ -52,19 +52,6 @@ iframe {
   position: fixed;
 }
 
-.brave {
-  font-size: 4em;
-  animation: glitch 400ms infinite;
-}
-
-.brave a {
-  text-decoration: none;
-}
-
-.brave a:hover {
-  font-style: normal;
-}
-
 @media (prefers-color-scheme: light) {
   body {
     background-color: white;
@@ -95,9 +82,5 @@ iframe {
     position: relative;
     text-align: right;
     padding: 20px 20px 0 0;
-  }
-  .brave {
-    position: absolute;
-    visibility: hidden;
   }
 }
