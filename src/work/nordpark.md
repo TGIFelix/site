@@ -9,6 +9,8 @@ date: 2021-04-05
 
 ## Nordpark
 
+> Logo design for wood working company
+
 [Logo ⇲](https://www.figma.com/file/Ec9iEGw2wqhphjYRpoY80E/nordpark?node-id=0%3A1)
 
 <!-- markdownlint-disable MD033 -->
