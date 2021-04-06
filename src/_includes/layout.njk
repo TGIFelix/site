@@ -18,7 +18,11 @@
     <header>
       <div class="nav">
         {%- for nav in collections.nav -%}
-        <a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a><br />
+        <ul>
+          <li>
+            <a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a>
+          </li>
+        </ul>
         {%- endfor -%}
         <br />
         <a href="{{metadata.blog}}">Blog ⇲</a>
