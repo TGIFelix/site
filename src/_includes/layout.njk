@@ -17,13 +17,13 @@
   <body>
     <header>
       <div class="nav">
-        {%- for nav in collections.nav -%}
         <ul>
+        {%- for nav in collections.nav -%}
           <li>
             <a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a>
           </li>
-        </ul>
         {%- endfor -%}
+        </ul>
         <br />
         <a href="{{metadata.blog}}">Blog ⇲</a>
       </div>
