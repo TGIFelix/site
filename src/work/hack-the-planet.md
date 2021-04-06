@@ -7,8 +7,6 @@ navtitle: Hack The Planet
 date: 2021-04-02
 ---
 
-<!-- markdownlint-disable MD033 -->
-
 ## Hack The Planet
 
 > App and Website mockup for #10DaysNoPlastic challenge

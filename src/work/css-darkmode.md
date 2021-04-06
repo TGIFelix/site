@@ -13,6 +13,4 @@ date: 2021-04-03
 
 [Link ⇲](https://gist.github.com/TGIFelix/5504dfc99e14a6c9851a359641d96a84)
 
-<!-- markdownlint-disable MD033 -->
-
 <script src="https://gist.github.com/TGIFelix/5504dfc99e14a6c9851a359641d96a84.js"></script>
