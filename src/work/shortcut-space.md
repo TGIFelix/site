@@ -13,4 +13,6 @@ date: 2021-04-01
 
 [Link ⇲](https://www.shortcut.space) [Source ⇲](https://www.github.com/tgifelix/shortcutspace)
 
-![Screenshot](../../img/scs.jpeg)
+<!-- markdownlint-disable MD033 -->
+
+<iframe src="https://shortcut.space" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="600"></iframe>
