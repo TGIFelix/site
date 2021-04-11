@@ -2,7 +2,7 @@
 title: 🛠 Ainit CLI
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Ainit CLI
 date: 2021-04-06
 ---

@@ -2,7 +2,7 @@
 title: 🏖️ Zandfornia
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Zandfornia
 date: 2021-04-01
 ---

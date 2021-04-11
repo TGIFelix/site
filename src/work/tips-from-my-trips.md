@@ -2,7 +2,7 @@
 title: 📷 Tips From My Trips
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Tips From My Trips
 date: 2021-04-01
 ---

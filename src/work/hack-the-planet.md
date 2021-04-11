@@ -2,7 +2,7 @@
 title: 🌍 Hack The Planet
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Hack The Planet
 date: 2021-04-02
 ---

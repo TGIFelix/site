@@ -1,91 +1,91 @@
 body {
-  margin: 0;
-  font-family: "JetBrains Mono";
+    margin: 0;
+    font-family: "JetBrains Mono";
 }
 
 main {
-  max-width: 50%;
-  margin: 0 auto;
+    max-width: 50%;
+    margin: 0 auto;
 }
 
 ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 h2 {
-  font-size: 2em;
-  text-shadow: 1px 1px hotpink, -1px -1px cyan;
+    font-size: 2em;
+    text-shadow: 1px 1px hotpink, -1px -1px cyan;
 }
 
 code {
-  font: 1em "JetBrains Mono";
-  animation: glitch 400ms infinite;
+    font: 1em "JetBrains Mono";
+    animation: glitch 400ms infinite;
 }
 
 a:hover,
 a:active {
-  animation: glitch 400ms infinite;
-  font-style: italic;
+    animation: glitch 400ms infinite;
+    font-style: italic;
 }
 
 @keyframes glitch {
-  0% {
-    text-shadow: 1px 1px hotpink, -1px -1px cyan;
-  }
-  25% {
-    text-shadow: -1px -1px hotpink, 1px 1px cyan;
-  }
-  50% {
-    text-shadow: 1px -1px hotpink, -1px 1px cyan;
-  }
-  75% {
-    text-shadow: -1px -1px hotpink, -1px -1px cyan;
-  }
-  100% {
-    text-shadow: -1px 1px hotpink, 1px -1px cyan;
-  }
+    0% {
+        text-shadow: 1px 1px hotpink, -1px -1px cyan;
+    }
+    25% {
+        text-shadow: -1px -1px hotpink, 1px 1px cyan;
+    }
+    50% {
+        text-shadow: 1px -1px hotpink, -1px 1px cyan;
+    }
+    75% {
+        text-shadow: -1px -1px hotpink, -1px -1px cyan;
+    }
+    100% {
+        text-shadow: -1px 1px hotpink, 1px -1px cyan;
+    }
 }
 
 img,
 iframe {
-  width: 100%;
+    width: 100%;
 }
 
 .nav {
-  padding: 0 20px;
-  position: fixed;
+    padding: 0 20px;
+    position: fixed;
 }
 
 @media (prefers-color-scheme: light) {
-  body {
-    background-color: white;
-    color: black;
-  }
-  a,
-  a:visited {
-    color: black;
-  }
+    body {
+        background-color: white;
+        color: black;
+    }
+    a,
+    a:visited {
+        color: black;
+    }
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
-    background-color: black;
-    color: white;
-  }
-  a,
-  a:visited {
-    color: white;
-  }
+    body {
+        background-color: black;
+        color: white;
+    }
+    a,
+    a:visited {
+        color: white;
+    }
 }
 
 @media screen and (max-width: 768px) {
-  main {
-    max-width: 90%;
-  }
-  .nav {
-    position: relative;
-    padding: 20px 0 0 20px;
-  }
+    main {
+        max-width: 90%;
+    }
+    .nav {
+        position: relative;
+        padding: 20px 0 0 20px;
+    }
 }

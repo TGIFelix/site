@@ -2,7 +2,7 @@
 title: 🌊 Northsea Hoodie
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Northsea Hoodie
 date: 2021-04-02
 ---

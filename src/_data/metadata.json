@@ -1,10 +1,10 @@
 {
-  "title": "tgifelix.com",
-  "url": "https://www.tgifelix.com",
-  "description": "Work by Felix Swinkels",
-  "author": {
-    "name": "Felix Swinkels",
-    "email": "info@tgifelix.com"
-  },
-  "blog": "https://medium.com/@tgifelix"
+    "title": "tgifelix.com",
+    "url": "https://www.tgifelix.com",
+    "description": "Work by Felix Swinkels",
+    "author": {
+        "name": "Felix Swinkels",
+        "email": "info@tgifelix.com"
+    },
+    "blog": "https://medium.com/@tgifelix"
 }

@@ -2,7 +2,7 @@
 title: ⌨️ Shortcut Space
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Shortcut Space
 date: 2021-04-01
 ---

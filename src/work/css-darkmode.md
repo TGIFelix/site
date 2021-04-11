@@ -2,7 +2,7 @@
 title: 🌚 CSS Darkmode
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: CSS Darkmode
 date: 2021-04-03
 ---
