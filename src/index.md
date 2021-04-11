@@ -2,7 +2,7 @@
 title: 🙋‍♂️ Felix Swinkels
 layout: layout.njk
 tags:
-  - nav
+    - nav
 navtitle: Home
 date: 2021-03-31
 ---
@@ -11,7 +11,7 @@ date: 2021-03-31
 
 ![family](img/fam.jpeg)
 
-🤫: 33
+🤫: 34
 
 🏠: Zandvoort, NL
 
