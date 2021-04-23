@@ -1,5 +1,5 @@
 ---
-title: 🙋‍♂️ Felix Swinkels
+title: 🏄‍♂️ Felix Swinkels
 layout: layout.njk
 tags:
     - nav
@@ -9,7 +9,7 @@ date: 2021-03-31
 
 ##
 
-![family](img/fam.jpeg)
+![family photo](img/fam.jpeg)
 
 🤫: 34
 
