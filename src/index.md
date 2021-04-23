@@ -1,5 +1,5 @@
 ---
-title: 🏄‍♂️ Felix Swinkels
+title: ✌️ Felix Swinkels
 layout: layout.njk
 tags:
     - nav
